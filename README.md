@@ -2,7 +2,7 @@
 
 Cara menjalankan
 --
-- Termux
+- Termux Android App (PlayStore)
 
 Ikuti langkah demi langkah.
 
