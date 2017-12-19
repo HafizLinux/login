@@ -16,7 +16,7 @@ Copy & Paste di Termux
 ```
 Selanjutnya input username & password akun Instagram kamu.
 
-Lalu copy & paste toke di LINE Bot Instagram Tools
+Lalu copy & paste token di LINE Bot Instagram Tools
 
 Contoh gambar
 --
