@@ -7,12 +7,22 @@ Cara menjalankan
 Ikuti langkah demi langkah.
 
 Copy & Paste di Termux
+
+- Install git & php
+
+(abaikan cara ini jika sudah terinstall)
 ```
 1. pkg install git
 2. pkg install php
-3. git clone https://github.com/dandyraka/login.git
-4. cd login
-5. php login.php
+```
+
+- Jika git & php sudah terinstall
+
+Langsung saja command
+```
+1. git clone https://github.com/dandyraka/login.git
+2. cd login
+3. php login.php
 ```
 Selanjutnya input username & password akun Instagram kamu.
 
