@@ -18,6 +18,16 @@ Selanjutnya input username & password akun Instagram kamu.
 
 Lalu copy & paste toke di LINE Bot Instagram Tools
 
-![Termux](https://raw.githubusercontent.com/dandyraka/login/master/IMG_20171219_222638.jpg | width=300)
+Contoh gambar
+--
+<img src="https://raw.githubusercontent.com/dandyraka/login/master/IMG_20171219_222638.jpg" width="300">
 
-![LINE](https://raw.githubusercontent.com/dandyraka/login/master/IMG_20171219_223014.jpg | width=300)
+<img src="https://raw.githubusercontent.com/dandyraka/login/master/IMG_20171219_223014.jpg" width="300">
+
+Contact
+--
+Jika kurang paham~
+
+LINE : dandyraka_
+
+FB : fb.me/dndyrka
