@@ -33,7 +33,8 @@ Lalu copy & paste token di LINE Bot Instagram Tools
  
 Tutorial Video
 --
-https://goo.gl/JRp5nt
+https://goo.gl/UAQ5hY
+
 
 Contoh gambar
 --
