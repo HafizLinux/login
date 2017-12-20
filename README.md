@@ -30,6 +30,11 @@ Selanjutnya input username & password akun Instagram kamu.
 
 Lalu copy & paste token di LINE Bot Instagram Tools
 
+ 
+Tutorial Video
+--
+https://goo.gl/JRp5nt
+
 Contoh gambar
 --
 <img src="https://raw.githubusercontent.com/dandyraka/login/master/IMG_20171219_222638.jpg" width="300">
